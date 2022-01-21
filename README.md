@@ -1,6 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durogfx&label=Views&color=0e75b6&style=flat" alt="durogfx" /> </p>
+### Hi, I'm Duro :wave:
 
 - 🔭 I’m currently working on [learning HTML](https://github.com/DuroGFX/HTML)
 
@@ -17,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durogfx&show_icons=true&theme=dark&locale=en" alt="durogfx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durogfx&theme=dark" alt="durogfx" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durogfx&label=Views&color=0e75b6&style=flat" alt="durogfx" /> </p>
