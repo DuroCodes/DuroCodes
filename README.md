@@ -13,7 +13,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durogfx&show_icons=true&theme=dracula&locale=en&layout=compact"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durogfx&show_icons=true&theme=dracula&locale=en&layout=default"></p>
 
 ---
 
