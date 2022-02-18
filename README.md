@@ -1,6 +1,6 @@
 ### Hi, I'm Duro :wave:
 
-- 🔭 I’m currently working on [learning HTML](https://github.com/DuroGFX/HTML)
+- 🔭 I’m currently working on learning [TypeScript](https://typescriptlang.org)
 
 ---
 
