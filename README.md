@@ -4,7 +4,7 @@
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/DuroGFX/DuroGFX/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/DuroCodes/DuroCodes/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -27,8 +27,8 @@
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=durogfx&show_icons=true&theme=dracula&locale=en&layout=compact"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuroCodes&show_icons=true&theme=dracula&locale=en&layout=compact"></p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durogfx&label=Views&color=0e75b6&style=flat" alt="durogfx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DuroCodes&label=Views&color=0e75b6&style=flat" alt="DuroCodes" /> </p>
