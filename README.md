@@ -12,9 +12,9 @@
 
 ## **Stats:**
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuroCodes&show_icons=true&theme=dracula&locale=en&layout=compact"> -->
-<img src="https://github-profile-trophy.vercel.app/?username=DuroCodes&no-frame=false&theme=dracula&column=4&row=1">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=DuroCodes&theme=dark&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DuroCodes&theme=dark&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"/>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=DuroCodes&label=Views&color=0e75b6&style=flat" alt="DuroCodes">
+<img src="https://komarev.com/ghpvc/?username=DuroCodes&label=Views&color=0e75b6&style=flat" alt="DuroCodes"/>
