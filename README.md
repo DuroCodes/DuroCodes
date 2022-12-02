@@ -14,7 +14,7 @@
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DuroCodes&theme=dark&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DuroCodes&theme=dark&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DuroCodes&theme=dark&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats"/>
 
 ---
 
