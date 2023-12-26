@@ -2,11 +2,11 @@
 
 ---
 
-### **Languages & Tools:**
+### **Languages:**
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [Next](https://nextjs.org/)
+- [Kotlin](https://kotlinlang.org/)
+- [Rust](https://www.rust-lang.org/)
 
 ---
 
