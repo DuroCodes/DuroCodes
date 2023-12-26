@@ -1,5 +1,7 @@
 ### Hi, I'm Duro :wave:
 
+I'm a self-taught developer working on whatever piques my interest :)
+
 ---
 
 ### **Languages:**
